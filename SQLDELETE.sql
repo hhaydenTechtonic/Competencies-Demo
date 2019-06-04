@@ -1,0 +1,1 @@
+DELETE top_strokes_songs;
